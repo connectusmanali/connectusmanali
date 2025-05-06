@@ -3,43 +3,6 @@
 <h1 align="center">Hi 👋, I'm Usman Ali</h1>
 <h3 align="left">Expert of data science, machine learning, Deep learning, and how they work together. I work in these areas and apply this knowledge to help companies make accurate decisions rather than exaggeration.</h3>
 
-<h1 align="center">Tools Expert with</h1>
-
-- Python
-- SQL
-- Numpy
-- Pandas
-- Matplotli and Seaborn
-- TensorFlow
-- Sklearn
-- PyTorch
-- CV
-- re and os
-- Jupyter NoteBook
-- Google Colab
-- VS code
-- Power BI
-- Tableau
-- AWS
-- MS SQL server
-
-<h1 align="center">Interests/Expertise</h1>
-
-- Data Science
-- Data Analysis
-- EDA
-- Statical Data Analysis
-- Time Series Analysis
-- Data mining
-- NLP
-- Data wrangling
-- Image Classification
-- Machine learning
-- Deep Learning
-- All things analytics
-- Educating the masses on statistics and statistical thinking
-- Attitudinal measurement, including customer/employee satisfaction
-- Business
 
 
 <img align="right" alt="Data Scientist" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
