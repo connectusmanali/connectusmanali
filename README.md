@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning and AWS**
 
-- 📫 How to reach me **whoisusmanali@gmail.com**
+- 📫 How to reach me **usmanaliconnect@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tar53Lviq3xccvLA_q26GV4XoYSe2PpI/view?usp=sharing](https://drive.google.com/file/d/1Tar53Lviq3xccvLA_q26GV4XoYSe2PpI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Tar53Lviq3xccvLA_q26GV4XoYSe2PpI/view?usp=sharing]([https://drive.google.com/file/d/1Tar53Lviq3xccvLA_q26GV4XoYSe2PpI/view?usp=sharing](https://www.linkedin.com/in/usman-ali-datascience/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
