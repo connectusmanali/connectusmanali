@@ -25,14 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/usmanal52128963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanal52128963" height="30" width="40" /></a>
+<a href="[https://twitter.com/usmanal52128963](https://x.com/connectusmana)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanal52128963" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usman-ali-06a6351b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-ali-06a6351b1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16730954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16730954" height="30" width="40" /></a>
 <a href="https://kaggle.com/howisusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="howisusmanali" height="30" width="40" /></a>
-<a href="https://fb.com/100046461901555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100046461901555" height="30" width="40" /></a>
-<a href="https://instagram.com/whoisusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisusmanali" height="30" width="40" /></a>
-<a href="https://medium.com/whoisusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="whoisusmanali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/whoisusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whoisusmanali" height="30" width="40" /></a>
+<a href="https://medium.com/connectusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="whoisusmanali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/whoisusmanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="whoisusmanali" height="30" width="40" /></a>
 </p>
 
